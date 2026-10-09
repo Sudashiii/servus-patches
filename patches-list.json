@@ -1,6 +1,6 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "1.0.0-dev.3",
+  "version": "1.0.0-dev.4",
   "patches": [
     {
       "name": "Block forced updates",
@@ -107,6 +107,40 @@
     {
       "name": "Disable video ads",
       "description": "Removes pre-roll and mid-roll ads (Google IMA) from videos and live channels.",
+      "default": true,
+      "category": null,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.mautilus.servus",
+          "name": "ServusTV On",
+          "description": null,
+          "apkFileType": "APKM",
+          "appIconColor": "#BC1D1D",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "7.5.2.0",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": null,
+              "versionCodes": null,
+              "isExperimental": true,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Reject cookie banner",
+      "description": "Skips the cookie consent banner on first launch and saves 'Reject all' instead, as if you declined it. The privacy settings in the app stay available.",
       "default": true,
       "category": null,
       "dependencies": [],

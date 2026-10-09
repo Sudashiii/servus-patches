@@ -1,3 +1,9 @@
+## [1.0.0-dev.4](https://github.com/Sudashiii/servus-patches/compare/v1.0.0-dev.3...v1.0.0-dev.4) (2026-10-09)
+
+### ✨ New Features
+
+* Add "Reject cookie banner" patch ([#6](https://github.com/Sudashiii/servus-patches/issues/6)) ([2bb5bb2](https://github.com/Sudashiii/servus-patches/commit/2bb5bb20b12c8ae717306aa22c0698ed8ab00ebb))
+
 ## [1.0.0-dev.3](https://github.com/Sudashiii/servus-patches/compare/v1.0.0-dev.2...v1.0.0-dev.3) (2026-10-09)
 
 ### ✨ New Features
