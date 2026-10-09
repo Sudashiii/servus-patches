@@ -15,9 +15,9 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0-dev.2](https://github.com/Sudashiii/servus-patches/releases/tag/v1.0.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;3 patches total
+> **[v1.0.0-dev.3](https://github.com/Sudashiii/servus-patches/releases/tag/v1.0.0-dev.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;4 patches total
 <details open>
-<summary>📦 ServusTV On&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
+<summary>📦 ServusTV On&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
 <br>
 
 **🎯 Supported versions:**
@@ -28,6 +28,7 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Block forced updates](#block-forced-updates) | Disables Google Play in-app update prompts and makes 'Update required' messages dismissible, so the patched app can't be locked out by a forced update. |  |
+| [Disable review prompts](#disable-review-prompts) | Stops the app from asking for a Play Store rating after watching videos or adding favorites. |  |
 | [Disable tracking](#disable-tracking) | Makes the app behave as if all tracking consent was declined, so Braze, Datadog, Red Bull analytics, GfK and Datazoom never start and Crashlytics and Firebase Analytics don't collect data. |  |
 | [Disable video ads](#disable-video-ads) | Removes pre-roll and mid-roll ads (Google IMA) from videos and live channels. |  |
 
