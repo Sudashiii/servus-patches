@@ -15,9 +15,9 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/Sudashiii/servus-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v1.0.0-dev.1](https://github.com/Sudashiii/servus-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
-<summary>📦 ServusTV On&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<summary>📦 ServusTV On&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
 
 **🎯 Supported versions:**
@@ -27,6 +27,7 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
+| [Disable tracking](#disable-tracking) | Makes the app behave as if all tracking consent was declined, so Braze, Datadog, Red Bull analytics, GfK and Datazoom never start and Crashlytics and Firebase Analytics don't collect data. |  |
 | [Disable video ads](#disable-video-ads) | Removes pre-roll and mid-roll ads (Google IMA) from videos and live channels. |  |
 
 </details>

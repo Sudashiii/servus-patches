@@ -1,3 +1,9 @@
+## 1.0.0-dev.1 (2026-10-09)
+
+### ✨ New Features
+
+* Add "Disable tracking" patch ([#1](https://github.com/Sudashiii/servus-patches/issues/1)) ([1cad68c](https://github.com/Sudashiii/servus-patches/commit/1cad68c5059abbd11cd64f154ebf5f825837de56))
+
 ## 1.0.0 (2026-10-04)
 
 ### ✨ New Features
