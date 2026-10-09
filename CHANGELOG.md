@@ -1,3 +1,9 @@
+## [1.0.0-dev.2](https://github.com/Sudashiii/servus-patches/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2026-10-09)
+
+### ✨ New Features
+
+* Add "Block forced updates" patch ([#3](https://github.com/Sudashiii/servus-patches/issues/3)) ([c77c5de](https://github.com/Sudashiii/servus-patches/commit/c77c5de46e1729d7bb15ff23185c344ad009463a))
+
 ## 1.0.0-dev.1 (2026-10-09)
 
 ### ✨ New Features
